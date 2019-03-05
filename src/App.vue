@@ -5,8 +5,8 @@
         <ul>
             <li v-tooltip="'6 anos de experiência'"><span class="lnr lnr-cog"></span> PHP</li>
             <li v-tooltip="'6 anos de experiência'"><span class="lnr lnr-cog"></span> Laravel</li>
-            <li v-tooltip="'6 anos de experiência'"><span class="lnr lnr-cog"></span> JavaScript</li>
-            <li v-tooltip="'5 anos de experiência'"><span class="lnr lnr-cog"></span> VueJS</li>
+            <li v-tooltip="'6 anos de experiência'"><span class="lnr lnr-screen"></span> JavaScript</li>
+            <li v-tooltip="'5 anos de experiência'"><span class="lnr lnr-screen"></span> VueJS</li>
             <li v-tooltip="'3 anos de experiência'"><span class="lnr lnr-drop"></span> SCSS</li>
         </ul>
         <a href="mailto:contato@joaoprado.com.br">contato@joaoprado.com.br</a>
