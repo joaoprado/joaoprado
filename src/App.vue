@@ -26,7 +26,7 @@
     html, body {
         background: #FAF9F8;
         color: #A5A3A6;
-        font-family: 'Open Sans', sans-serif;
+        font-family: 'Montserrat', sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
         height:  100%;
