@@ -48,25 +48,23 @@
 
     h1 {
         color: lighten(#1C1B1E, 20%);
-        font-size: 100px;
-        line-height:  80px;
+        font-size: 50px;
+        line-height:  40px;
     }
 
     h2 {
-        font-size: 40px;
         margin-bottom: 2rem;
     }
 
     a {
         color: #A5A3A6;
-        font-size: 30px;
-        justify-self: flex-end;
+        font-size: 18px;
         text-decoration: none;
     }
 
     ul {
-        display: flex;
         list-style: none;
+        margin-bottom: 2rem;
 
         li {
             align-items: center;
@@ -75,6 +73,31 @@
 
             span {
                 margin-right:  .5rem;
+            }
+        }
+    }
+
+    @media(min-width: 768px) {
+        h1 {
+            font-size: 100px;
+            line-height:  80px;
+        }
+
+        h2 {
+            font-size: 40px;
+        }
+
+        a {
+            font-size: 30px;
+        }
+
+        ul {
+            display: flex;
+
+            li {
+                span {
+                    margin-right:  .5rem;
+                }
             }
         }
     }
