@@ -4,17 +4,13 @@
 set -e
 
 # build
-npm run build
-
-# navigate into the build output directory
-cd dist
-
- echo 'joaoprado.com.br' > CNAME
+docker exec -it dev_workspace_1 bash -c "cd joaoprado && npm run build"
+docker exec -it dev_workspace_1 bash -c "cd joaoprado/dist && echo 'joaoprado.com.br' > CNAME"
 
 git init
 git add -A
 git commit -m 'deploy'
 
- git push -f git@github.com:joaoprado/joaoprado.github.io.git master
+git push -f git@github.com:joaoprado/joaoprado.github.io.git master
 
 cd -
