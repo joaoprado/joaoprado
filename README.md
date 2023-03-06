@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joao</h1>
-<h3 align="center">A Brazilian software developer based in São Paulo with over 10 years of experience building web applications, mostly using Laravel and VueJS.</h3>
+<h3 align="center">A Brazilian Product Engineer based in São Paulo with over a decade of experience building web applications, mostly using Laravel and VueJS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoprado&label=Profile%20views&color=0e75b6&style=flat" alt="joaoprado" /> </p>
 
 <p align="left"> <a href="https://twitter.com/joaorprado" target="blank"><img src="https://img.shields.io/twitter/follow/joaorprado?logo=twitter&style=for-the-badge" alt="joaorprado" /></a> </p>
 
-- 🔭 I’m currently working as Tech Lead at [Souk Brasil](https://github.com/soukbrasil)
+- 🔭 I’m currently working as Tech Lead & Staff Engineer at [Souk Brasil](https://github.com/soukbrasil)
 
 - 💬 Ask me about **Laravel, Vue**
 
